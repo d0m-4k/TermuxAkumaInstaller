@@ -1,2 +1,6 @@
 # TermuxAkumaInstaller
-Автоматический установщих Akuma для Termux
+Автоматический установщих AKUMA TOOL для Termux
+
+```
+wget https://
+```
